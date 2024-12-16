@@ -1,6 +1,3 @@
-Here’s an improved version of your `README.md` with icons and animated elements. Note that Markdown itself doesn't support animations, but you can link to animated images or GIFs to achieve the effect.
-
-```markdown
 # Welcome to OpenRAVE
 
 [![Official OpenRAVE Homepage](https://img.shields.io/badge/Official-OpenRAVE-4C8BF5?style=for-the-badge)](http://openrave.org)
